@@ -8,5 +8,5 @@ M3-GMN dataset can be download [here](https://pan.baidu.com/s/1vdVwZt5fdPEZGZ1fy
 提取码：vqtu
 
 ## ToDo:
-Expand our data set.
+Expand our dataset.
 
