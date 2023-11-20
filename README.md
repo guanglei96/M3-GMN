@@ -14,7 +14,7 @@ M3-GMN dataset can be download [here](https://pan.baidu.com/s/1vdVwZt5fdPEZGZ1fy
 Extract and organize as follows:
 
 ```
-|-- M3-GMN
+ |-- M3-GMN
  |  |-- 01
  |  |  |-- GT
  |  |  |  |-- GT_elevation_txt
@@ -22,8 +22,11 @@ Extract and organize as follows:
  |  |  |  |-- GT_ROI_txt
  |  |  |-- LidarData
  |  |  |  |-- lidardata.pcd
+ |  |  |-- ImageData
+ |  |  |  |-- ImageData.png
  |  |  |-- params
  |  |  |  |-- lidar_specification.ini
+ |  |  |-- imu_pose.txt
  |  |  |-- slam_pose.txt
  ......
  ......
