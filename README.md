@@ -2,7 +2,6 @@
 
 
 
-https://github.com/guanglei96/M3-GMN/blob/main/2024iros.mp4
 
 ## Download Link on BaiDu Pan:
 
