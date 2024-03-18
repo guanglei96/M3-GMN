@@ -26,7 +26,7 @@ Extract and organize as follows:
  |  |  |  |-- ImageData.png
  |  |  |-- params
  |  |  |  |-- lidar_specification.ini
- |  |  |-- imu_pose.txt
+ |  |  |-- ins_pose.txt
  |  |  |-- slam_pose.txt
  ......
  ......
