@@ -30,6 +30,8 @@ Extract and organize as follows:
  ......
  ......
  |  |-- 07
+ |  |-- readme.md
+ |  |-- video.mp4
 ```
 
 
